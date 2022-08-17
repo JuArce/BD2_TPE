@@ -1,0 +1,11 @@
+fastapi = "*"
+sqlalchemy = "*"
+pydantic = "*"
+redis = "*"
+redisearch = "*"
+passlib = "*"
+psycopg2-binary = "*"
+bcrypt = "*"
+python-multipart = "*"
+uvicorn
+jose
